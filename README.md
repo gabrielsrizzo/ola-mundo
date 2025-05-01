@@ -1,5 +1,4 @@
-# Olá, Mundo
- Aula de Git Gustavo guanabara
+# Aula de Git Gustavo guanabara
 
  Repositório criado durante o curso de Git/Github
 
@@ -8,3 +7,7 @@
 
 **Issues** = registrar relatórios de bugs, novos recursos e ideias
 **Pull requests** = colaboradores podem revisar e discutir o conjunto de alterações proposto antes de integrá-las à base de código principal.
+
+**Branch** = permite o desenvolvimento independente de recursos ou correções sem afetar a base de código principal.
+
+(código separado)
